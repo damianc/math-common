@@ -1,6 +1,6 @@
 # math-common
 
-Functions for GCD, LCM and LCD.
+Functions for **GCD**, **LCM** and **LCD**.
 
 - `Math.gcd(...nums)` - returns **greatest common divisor/factor** of given numbers
 - `Math.lcm(...nums)` - returns **least/lowest common multiple** of given numbers
